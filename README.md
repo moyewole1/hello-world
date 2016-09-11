@@ -1,2 +1,6 @@
 # hello-world
-a place where you store ideas, resources, or even share and discuss things with others.
+
+Hey everyone!
+
+Michael here. I am familiar with HTML, CSS, java, javascript, and some SQL commands. Just the basics.
+I'm here to learn all that I can about being the best Software Engineer in the universe.
